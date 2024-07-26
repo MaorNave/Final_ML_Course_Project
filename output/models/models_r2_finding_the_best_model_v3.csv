@@ -1,0 +1,10 @@
+,best_params,r2_train,r2_test
+Linear_Regression,{},0.8240892638883128,0.7902156269908727
+Lasso_Regression,{'alpha': 0.0001},0.8240892638883123,0.7902156265800537
+Ridge_Regression,{'alpha': 10},0.8240839473968791,0.7900511808158627
+SVR,"{'C': 250, 'gamma': 0.1, 'kernel': 'rbf'}",0.8121065759556056,0.8023407752267809
+Gradient_Boosting,"{'learning_rate': 0.1, 'max_depth': 20}",0.9688751387022456,0.9268227895233488
+Random_Forest_Regressor,"{'max_depth': 20, 'n_estimators': 3000}",0.9918428493829784,0.915853187465258
+KNN_Regressor,"{'metric': 'minkowski', 'n_neighbors': 7}",0.9247816200633502,0.8800334163989486
+SGDRegressor,"{'alpha': 0.01, 'learning_rate': 'optimal'}",0.8235605166860065,0.7892271574131349
+XGBRegressor,"{'colsample_bytree': 0.8, 'gamma': 0, 'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 600, 'subsample': 0.8}",0.974613207044378,0.9280207656855535
