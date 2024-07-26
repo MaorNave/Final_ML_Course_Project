@@ -1,0 +1,31 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 3667 entries, 0 to 3666
+Data columns (total 24 columns):
+ #   Column                   Non-Null Count  Dtype  
+---  ------                   --------------  -----  
+ 0   Year                     3667 non-null   int64  
+ 1   Model                    3667 non-null   object 
+ 2   Condition                3667 non-null   object 
+ 3   Price                    3667 non-null   int64  
+ 4   Consumer_Rating          3667 non-null   float64
+ 5   Consumer_Review_#        3667 non-null   int64  
+ 6   Exterior_Color           3667 non-null   object 
+ 7   Interior_Color           3667 non-null   object 
+ 8   Drivetrain               3667 non-null   object 
+ 9   MPG                      2652 non-null   object 
+ 10  Fuel_Type                3667 non-null   object 
+ 11  Transmission             3667 non-null   object 
+ 12  Engine                   3667 non-null   object 
+ 13  VIN                      3667 non-null   object 
+ 14  Stock_#                  3667 non-null   object 
+ 15  Mileage                  3667 non-null   int64  
+ 16  Comfort_Rating           3311 non-null   float64
+ 17  Interior_Design_Rating   3311 non-null   float64
+ 18  Performance_Rating       3311 non-null   float64
+ 19  Value_For_Money_Rating   3311 non-null   float64
+ 20  Exterior_Styling_Rating  3311 non-null   float64
+ 21  Reliability_Rating       3311 non-null   float64
+ 22  State                    3667 non-null   object 
+ 23  Seller_Type              3623 non-null   object 
+dtypes: float64(7), int64(4), object(13)
+memory usage: 687.7+ KB

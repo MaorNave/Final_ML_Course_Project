@@ -1,0 +1,76 @@
+<class 'pandas.core.frame.DataFrame'>
+Index: 2022 entries, 0 to 2021
+Data columns (total 69 columns):
+ #   Column                          Non-Null Count  Dtype 
+---  ------                          --------------  ----- 
+ 0   MaritalStatus                   2022 non-null   object
+ 1   NumberOfChildren                2022 non-null   int64 
+ 2   NumberOfYoungChildren           2022 non-null   int64 
+ 3   Minority                        2022 non-null   bool  
+ 4   Debts                           2022 non-null   object
+ 5   Income                          2022 non-null   object
+ 6   Education                       2022 non-null   object
+ 7   LegalKnowledge                  2022 non-null   object
+ 8   InvolvedInLegalDispute          2022 non-null   bool  
+ 9   ExperienceWithCourtProceedings  2022 non-null   bool  
+ 10  CourtProceedingsSatisfaction    2022 non-null   int64 
+ 11  ExperienceWithMediation         2022 non-null   bool  
+ 12  MediationSatisfaction           2022 non-null   int64 
+ 13  ExperienceWithArbitration       2022 non-null   bool  
+ 14  ArbitrationSatisfaction         2022 non-null   int64 
+ 15  BF1                             2022 non-null   int64 
+ 16  BF2                             2022 non-null   int64 
+ 17  BF3                             2022 non-null   int64 
+ 18  BF4                             2022 non-null   int64 
+ 19  BF5                             2022 non-null   int64 
+ 20  BF6                             2022 non-null   int64 
+ 21  BF7                             2022 non-null   int64 
+ 22  BF8                             2022 non-null   int64 
+ 23  BF9                             2022 non-null   int64 
+ 24  BF10                            2022 non-null   int64 
+ 25  BF11                            2022 non-null   int64 
+ 26  BF12                            2022 non-null   int64 
+ 27  BF13                            2022 non-null   int64 
+ 28  BF14                            2022 non-null   int64 
+ 29  BF15                            2022 non-null   int64 
+ 30  TK1                             2022 non-null   object
+ 31  TK2                             2022 non-null   object
+ 32  TK3                             2022 non-null   object
+ 33  TK4                             2022 non-null   object
+ 34  TK5                             2022 non-null   object
+ 35  TK6                             2022 non-null   object
+ 36  TK7                             2022 non-null   object
+ 37  TK8                             2022 non-null   object
+ 38  TK9                             2022 non-null   object
+ 39  TK10                            2022 non-null   object
+ 40  Age                             2022 non-null   int64 
+ 41  Sex                             2022 non-null   object
+ 42  Ethnicity simplified            2022 non-null   object
+ 43  Country of birth                2022 non-null   object
+ 44  Country of residence            2022 non-null   object
+ 45  Nationality                     2022 non-null   object
+ 46  Student status                  2022 non-null   object
+ 47  Employment status               2022 non-null   object
+ 48  STNumber                        2022 non-null   int64 
+ 49  Feelings                        2022 non-null   object
+ 50  Speed                           2022 non-null   int64 
+ 51  Privacy                         2022 non-null   int64 
+ 52  PublicVindication               2022 non-null   int64 
+ 53  NeutralOpinion                  2022 non-null   int64 
+ 54  MinimizeCosts                   2022 non-null   int64 
+ 55  MaintainImproveRelationship     2022 non-null   int64 
+ 56  CreatePrecedent                 2022 non-null   int64 
+ 57  MinMaxCompensation              2022 non-null   int64 
+ 58  CreativeSolution                2022 non-null   int64 
+ 59  ControlOfProcess                2022 non-null   int64 
+ 60  ControlOfOutcome                2022 non-null   int64 
+ 61  ShiftResponsibility             2022 non-null   int64 
+ 62  EnsuringCompliance              2022 non-null   int64 
+ 63  TransformationOfTheParties      2022 non-null   int64 
+ 64  ImproveUnderstanding            2022 non-null   int64 
+ 65  RecognitionApology              2022 non-null   int64 
+ 66  Classification                  2022 non-null   object
+ 67  StrengthPosition                2022 non-null   object
+ 68  Decision                        2022 non-null   object
+dtypes: bool(5), int64(38), object(26)
+memory usage: 1.0+ MB
