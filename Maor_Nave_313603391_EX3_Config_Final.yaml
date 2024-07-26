@@ -1,0 +1,29 @@
+
+EX1:
+  functions:
+    check_unique_vals: False
+    visualize_corr_and_hist: False
+    clean_and_save_data: False
+    find_best_model: False
+    train_cv: False
+    train_cv_no_ST: False
+EX2:
+  functions:
+    check_unique_vals: False
+    visualize_corr_and_hist: False
+    clean_and_save_data: False
+    find_best_model: False
+    create_syn_data: False
+    load_syn_data: False
+    train_cv: False
+    cleandata_test_on_new_data: False
+    test_on_new_data: False
+    check_new_ev: False
+
+params:
+  output_paths_kwargs:
+    path_main_vis_hist: 'output\\vis'
+    path_main_vis_corr: 'output\\corr'
+    path_main_model: 'output\\models'
+    path_output: 'output'
+
