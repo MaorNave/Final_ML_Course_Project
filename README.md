@@ -1,34 +1,65 @@
-# Final_ML_Course_Project
-Developed and evaluated classic ML algorithms for classification and regression tasks. Focused on data preparation, feature selection, and model performance using synthetic data. Achieved the best accuracy, F1 scores, MSE, and R² values in class, demonstrating superior model performance.
+# 🔬 Final ML Course Project: Classification & Regression Mastery
 
+## 📊 Advanced Machine Learning — Final Project👨‍💼 Author: Maor Nave📂 Course: Advanced ML (Fall 2025)📈 Focus: Data prep, feature selection, model evaluation
 
-### Project Title: Advanced Machine Learning Course Project
+# 📌 Project Overview
 
-This project was completed as part of an advanced machine learning course and involved running classic ML algorithms to solve two distinct problems: classification and regression. The objective was to identify the best-fitting models for each problem through a comprehensive process that included data preparation, feature selection, and model evaluation.
+This project was completed as part of an advanced machine learning course and focused on developing and evaluating classic ML algorithms for two core tasks:
 
-#### Key Steps and Methods:
+Classification — Predicting discrete class labels
 
-1. **Data Preparation:**
-   - Collected and cleaned datasets to ensure quality and reliability.
-   - Handled missing values and outliers to improve data integrity.
+Regression — Estimating continuous numeric values
 
-2. **Feature Selection:**
-   - Applied various feature selection methods to identify the most relevant features for each problem.
-   - Compared different approaches to determine the optimal feature set that enhances model performance.
+Through rigorous data preparation, strategic feature selection, and thorough evaluation, the models trained achieved the best performance scores in class, showcasing exceptional predictive power.
 
-3. **Model Training and Evaluation:**
-   - Implemented multiple classic ML algorithms for both classification and regression tasks.
-   - Used synthetic data to augment training datasets, boosting model performance.
-   - Conducted rigorous model evaluation using metrics such as accuracy, F1 score, Mean Squared Error (MSE), and R-squared (R²) values.
+# 📄 Key Workflow & Techniques
 
-#### Achievements:
+## 1. 📁 Data Preparation
 
-- **Classification Problem:**
-  - Achieved the highest accuracy and F1 scores in the class, indicating superior model performance in correctly predicting class labels.
+Cleaned raw datasets and addressed missing values
 
-- **Regression Problem:**
-  - Attained the best MSE and R² values, demonstrating the model’s effectiveness in predicting continuous outcomes with high precision.
+Detected and handled outliers
 
-This project was recognized for its exceptional performance, with the models evaluated as the best in class for both the classification and regression problems. The success of this project underscores the importance of meticulous data preparation and effective feature selection in developing high-performing machine learning models.
+Ensured data integrity for reliable model training
 
+## 2. 🔍 Feature Selection
 
+Evaluated multiple feature selection techniques
+
+Identified optimal feature subsets tailored to each problem type
+
+Boosted model interpretability and efficiency
+
+## 3. 🔧 Model Training & Evaluation
+
+Implemented a variety of classic ML models for both tasks
+
+Augmented datasets using synthetic data techniques
+
+## Evaluated models using:
+
+Accuracy and F1 Score for classification
+
+Mean Squared Error (MSE) and R² for regression
+
+# 🏆 Results & Achievements
+
+🔢 Classification
+
+✅ Highest accuracy and F1 score in the class
+
+Model achieved superior performance in classifying target labels correctly
+
+📈 Regression
+
+✅ Best MSE and R² values in the class
+
+Model demonstrated high precision in predicting continuous variables
+
+This project was officially recognized for delivering top-tier model performance in both the classification and regression domains (evaluated 1st in class) . It highlights the crucial role of clean data and intelligent feature engineering in building effective ML systems.
+
+# 📧 Contact Me
+
+I'm always open to feedback, collaboration, and new research opportunities.
+
+📬 Email: maornanibar@gmail.com💬 LinkedIn: linkedin.com/in/maornave🧠 Research Interests:Computer Vision – Advanced image processing and physical simulationsData Analytics – Statistical analysis and database optimizationAI Applications – Machine & Deep learning
