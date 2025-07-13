@@ -1,9 +1,14 @@
 # 🔬 Final ML Course Project: Classification & Regression Mastery
 
 ## 📊 Advanced Machine Learning — Final Project
+
 👨‍💼 Author: Maor Nave
+
 📂 Course: Advanced ML (Fall 2025)
+
 📈 Focus: Data prep, feature selection, model evaluation
+
+🤖 This project was officially recognized for delivering top-tier model performance in both the classification and regression domains (evaluated 1st in class)
 
 # 📌 Project Overview
 
